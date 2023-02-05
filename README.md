@@ -2,4 +2,4 @@
 
 Hasil jadinya
 
-![ss](https://user-images.githubusercontent.com/107631792/216770319-b58f4b58-3298-46e8-9891-6fa7d929112c.png)
+![image](https://user-images.githubusercontent.com/107631792/216831490-9c3d8132-896e-4a7a-8d52-63b096ed38d7.png)
