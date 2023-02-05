@@ -116,6 +116,7 @@ fun Upper() {
                     tint = Color.White.copy(alpha = 0.5f),
                     modifier = Modifier
                         .size(size = 18.dp)
+                        .offset(x=78.dp)
                         )
 
             }
